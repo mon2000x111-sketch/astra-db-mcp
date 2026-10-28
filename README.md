@@ -1,4 +1,4 @@
-# Astra DB MCP Server
+ # Astra DB MCP Server
 
 A Model Context Protocol (MCP) server for interacting with Astra DB. MCP extends the capabilities of Large Language Models (LLMs) by allowing them to interact with external systems as agents.
 
